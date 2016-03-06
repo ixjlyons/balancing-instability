@@ -1,9 +1,5 @@
 """
-Script to re-create Figure 1 from Moreau and Sontag, 2003.
-
-The system is repeatedly simulated in the periods between impulsive inputs,
-since the inputs are assumed to bring the system exactly to the desired state
-instantaneously.
+Script to re-create Figure 3 from Moreau and Sontag, 2003.
 """
 
 import systems
